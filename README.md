@@ -216,7 +216,7 @@ https://drive.google.com/file/d/1cOMPqcGLK62oSDqB771E_CexHreIt--N/view
 | Domain              | Expertise |
 | ------------------- | --------- |
 | Python              | ⚡⚡⚡⚡⚡     |
-| DSA                 | ⚡⚡⚡⚡⚡     |
+| DSA                 | ⚡⚡⚡⚡     |
 | Web Development     | ⚡⚡⚡⚡      |
 | Flask               | ⚡⚡⚡       |
 | Database Management | ⚡⚡⚡       |
